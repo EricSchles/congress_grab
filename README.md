@@ -19,3 +19,6 @@ Use:
 
 https://gwu-libraries.github.io/sfm-ui/posts/2017-05-23-congress-seed-list
 
+Get party affiliation:
+
+https://ballotpedia.org/List_of_current_members_of_the_U.S._Congress
